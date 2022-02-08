@@ -1,0 +1,253 @@
+body
+{
+    background-color: black;
+    margin: 0;
+}
+.image
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    max-width: 280px;
+    padding-top: 1rem;
+}
+.header
+{
+    background-color: wheat;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    border-bottom-right-radius: 3rem;
+}
+h1
+{
+    text-align: center;
+    color: black;
+}
+.blog-heading
+{
+    color: white;
+}
+.technology-heading
+{
+    color: white;
+}
+p
+{
+    text-align: center;
+    font-style: italic;
+    font-family: sans-serif;
+    color: honeydew;
+}
+.white
+{
+    color: black;
+}
+a
+{
+    text-align: center;
+    color: #3B82F6;
+    text-decoration: none;
+}
+.links
+{
+    display: block;
+    text-decoration: none;
+}
+.header-links
+{
+    letter-spacing: 0.5px;
+    word-spacing: 5px;
+    text-align: right;
+}
+footer ul
+{
+    word-spacing: 5px;
+}
+.title
+{
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: black;
+}
+footer
+{
+    background-color: wheat;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.about-me
+{
+    background-color: wheat;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    border-bottom-right-radius: 3rem;
+}
+.projects
+{
+    background-color: wheat;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    border-bottom-right-radius: 3rem;
+}
+.technologies
+{
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.blogs
+{
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+}
+.name1
+{
+    color: whitesmoke;
+}
+.links-1
+{
+    display: block;
+    color: #3B82F6;
+    padding-top: 1rem;
+}
+.links-2
+{
+    display: block;
+    color: #B91C1C;
+    padding-top: 1rem;
+}
+h2
+{
+    text-align: center;
+}
+.social
+{
+    height: 50px;
+    width: 50px;
+    padding-bottom: 1rem;
+}
+h3
+{
+    text-align: center;
+    font-family: monospace;
+    font-size: 25px;
+}
+.smile
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h4
+{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    color: maroon;
+
+}
+.name
+{
+    text-align: end;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
+h5
+{
+    font-size: 33px;
+    color: white;
+}
+.blogbutton
+{
+    background-color: #DCDCDC;
+    color: black;
+    display: block;
+    max-width: 140px;
+    box-sizing: border-box;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
+.blogbutton :hover
+{
+    background-color: chartreuse;
+}
+hr
+{
+    padding-bottom: 0.5rem;
+    color:  #DCDCDC;
+    background-color: #DCDCDC;
+}
+.projects-title
+{
+    color: #DCDCDC;
+}
+.name2
+{
+    color: white;
+}
+.header-links a
+{
+    color: black;
+}
+.header-links a:hover
+{
+    color: red;
+}
+.blogbutton:hover
+{
+    color: blue;
+    background-color: burlywood;
+}
+.projects a:hover
+{
+    color: red;
+}
+.blogs a:hover
+{
+    color: red;
+}
+ol a:hover
+{
+    color: yellow;
+}
+.speech
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20rem;
+}
+.universe
+{
+    width: 10rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.career
+{
+
+    width: 20rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.confuse
+{
+    width: 20rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pose
+{
+    width: 10rem;
+}
+.see
+{
+    width: 10rem;
+}
